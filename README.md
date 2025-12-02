@@ -1,6 +1,6 @@
 # Tools_for_storing_and_processing_big_data
 
-## PRACTICAL WORKS 
+## Практические работы
 
 ## **[Лабораторная работа 2.1. Изучение методов хранения данных на основе NoSQL]()**
 
